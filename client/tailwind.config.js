@@ -7,6 +7,7 @@ export default {
         poppins: ["Poppins", "sans-serif"],
         vollkorn: ["Vollkorn", "serif"],
         righteous: ["Righteous", "sans-serif"],
+        yeseva: ["Yeseva", "sans-serif"],
       },
       colors: {
         primary: "#0085FF",
