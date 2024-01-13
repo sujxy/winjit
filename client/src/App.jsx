@@ -7,9 +7,9 @@ function App() {
   return (
     <div>
       <Routes>
-        <Route index element={<Layout />}>
-          {/* <Route path={"/chat"} element={<ChatPage />} /> */}
-        </Route>
+        <Route path="/" element={<Layout />} />
+
+        <Route path={"/chat"} element={<h1>hii</h1>} />
       </Routes>
     </div>
   );
